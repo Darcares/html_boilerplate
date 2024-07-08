@@ -1,1 +1,1 @@
-# html_boilerplate
+Practicing Git and memorizing the HTML boilerplate
